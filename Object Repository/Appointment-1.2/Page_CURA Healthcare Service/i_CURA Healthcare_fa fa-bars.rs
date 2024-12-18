@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CURA Healthcare_fa fa-bars</name>
+   <tag></tag>
+   <elementGuidId>96f229f3-f30b-48e9-b011-0e4978833082</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu-toggle']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>56ce2fd5-6a37-49c8-8dae-3e578b051a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>19fcb01c-20a9-4ec9-a4df-884954c36079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>4bc813fc-056f-47f3-817e-1ab9804629e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu-toggle']/i</value>
+      <webElementGuid>2c820e00-686f-4e82-8dcc-49d5bd63c9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>b7039752-fae1-40c0-9f56-4664c0ca02e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
